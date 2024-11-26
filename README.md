@@ -1,5 +1,23 @@
-## Hi there 👋
+## 👩‍💻 Hi there 👋
 
+I am Sengul, a recent Computer Science BSc graduate from the University of Bristol!
+
+Here on my Github, you can find most of the coursework I completed as part of my CS degree and also some personal projects.
+
+- 🔭 I’m currently looking for software engineer or frontend/backend developer roles in Europe
+- 🎓 I'm a 2024 Computer Science BSc graduate with a first-class [thesis](https://github.com/SengulC/stormboard-client) in the top 10
+- 🌱 I’m currently exercising my web development and software engineering skills
+- 🃏 I love the creative intersections of art and technology
+- 🎲 Fun fact: I love to cook up new 🍝 dishes and drinks 🫗!
+- 📫 How to reach me: sengulcagdal@gmail.com | [LinkedIn](https://www.linkedin.com/in/sengulc/)
+- 😄 Pronouns: she/her
+
+## Tech stack
+- Experienced in: JavaScript (React), Java, C++, HTML, CSS
+- Have previously used and can pick back up: Python, C#, Go, Haskell, C
+
+## Github stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SengulC&hide_progress=true)](https://github.com/SengulC/github-readme-stats)
 <!--
 **SengulC/SengulC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

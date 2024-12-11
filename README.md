@@ -4,7 +4,7 @@ I am Sengul, a recent Computer Science BSc graduate from the University of Brist
 
 Here on my Github, you can find most of the coursework I completed as part of my CS degree and also some personal projects.
 
-- 🔭 I’m currently looking for software engineer or frontend/backend developer roles in Europe
+- 🔭 I’m currently looking for software engineer roles in Europe
 - 🎓 I'm a 2024 Computer Science BSc graduate with a first-class [thesis](https://github.com/SengulC/stormboard-client) in the top 10
 - 🌱 I’m currently exercising my web development and software engineering skills
 - 🃏 I love the creative intersections of art and technology

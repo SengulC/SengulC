@@ -15,7 +15,7 @@ Here on my Github, you can find most of the coursework I completed as part of my
 ## Tech stack
 - Experienced in: JavaScript (React), Java, C++, HTML, CSS
 - Have previously used and can pick back up: Python, C#, Go, Haskell, C
-- Actively improving on: React, JavaScript, Java, Python
+- Actively improving on: JavaScript, React, Python, C++
 
 ## Github stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SengulC&hide_progress=true)](https://github.com/SengulC/github-readme-stats)

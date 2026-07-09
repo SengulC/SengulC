@@ -9,7 +9,7 @@ _a little bit about myself..._
 - 🎓 I'm currently completing my MSc in Interactive Digital Media @ TCD
 - 🌱 I’m exercising my full-stack web and indie-game development skills
 - 🃏 I love the creative intersections of art and technology 
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sengulc/)
+- 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/sengulc/)
 - Pronouns: she/her
 
 ## Tech stack
